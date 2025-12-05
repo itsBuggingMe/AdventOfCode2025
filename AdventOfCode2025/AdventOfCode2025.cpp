@@ -7,6 +7,7 @@
 #include "Day2.cpp"
 #include "Day3.cpp"
 #include "Day4.cpp"
+#include "Day5.cpp"
 
 static void run_day(Day* day)
 {
@@ -25,6 +26,6 @@ static void run_day(Day* day)
 
 int main()
 {
-	Day* day = new Day4();
+	Day* day = new Day5();
 	run_day(day);
 }

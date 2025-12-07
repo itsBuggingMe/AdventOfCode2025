@@ -33,7 +33,6 @@ public:
             gridWidth - 1,
             -gridWidth + 1,
             -gridWidth - 1
-
         };
 
         for (int32_t i = 0; i < grid.length(); i++)

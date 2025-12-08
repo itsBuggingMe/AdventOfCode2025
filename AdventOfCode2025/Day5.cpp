@@ -6,7 +6,6 @@
 
 struct Range
 {
-public:
     int64_t Start;
     int64_t End;
 

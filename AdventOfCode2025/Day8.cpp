@@ -10,7 +10,6 @@
 
 struct float3
 {
-public:
     float X;
     float Y;
     float Z;
@@ -39,7 +38,6 @@ public:
 
 struct float3x2
 {
-public:
     float3 A;
     float3 B;
     float Distance;

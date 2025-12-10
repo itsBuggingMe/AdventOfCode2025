@@ -128,6 +128,7 @@ public:
 
             failed:;
             }
+            std::cout << i << std::endl;
         }
 
         return std::to_string(max);
